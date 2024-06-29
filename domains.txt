@@ -1,2 +1,3 @@
 envs.sh
 bitly.cx
+hurlurl.com
