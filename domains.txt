@@ -2,3 +2,4 @@ envs.sh
 bitly.cx
 hurlurl.com
 exi.link
+sc.link
