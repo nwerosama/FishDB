@@ -4,3 +4,4 @@ hurlurl.com
 exi.link
 sc.link
 nfthunts21.vercel.app
+is.gd
