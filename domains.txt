@@ -6,3 +6,4 @@ sc.link
 nfthunts21.vercel.app
 is.gd
 linkshorter.live
+in.mt
