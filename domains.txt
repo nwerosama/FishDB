@@ -8,3 +8,4 @@ is.gd
 linkshorter.live
 in.mt
 steamucommunity.cfd
+gamora.cfd
